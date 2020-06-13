@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9636603.chunk.css",
+    "main.js": "/static/js/main.9ba0728e.chunk.js",
+    "main.js.map": "/static/js/main.9ba0728e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6a0825b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6a0825b5.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d29f1efc.chunk.js": "/static/js/2.d29f1efc.chunk.js",
+    "static/js/2.d29f1efc.chunk.js.map": "/static/js/2.d29f1efc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.43318474f2e1e04a793002feb4f6bf04.js": "/precache-manifest.43318474f2e1e04a793002feb4f6bf04.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e9636603.chunk.css.map": "/static/css/main.e9636603.chunk.css.map",
+    "static/js/2.d29f1efc.chunk.js.LICENSE.txt": "/static/js/2.d29f1efc.chunk.js.LICENSE.txt",
+    "static/media/blockchain.svg": "/static/media/blockchain.714a74e3.svg",
+    "static/media/exemplopagina.png": "/static/media/exemplopagina.a8a7f6d9.png",
+    "static/media/mining.svg": "/static/media/mining.dbcb7dc7.svg",
+    "static/media/novousuario.svg": "/static/media/novousuario.4e85062e.svg",
+    "static/media/paper.svg": "/static/media/paper.0b3c2863.svg",
+    "static/media/privatekeys.svg": "/static/media/privatekeys.9abe5f92.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a0825b5.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d29f1efc.chunk.js",
+    "static/css/main.e9636603.chunk.css",
+    "static/js/main.9ba0728e.chunk.js"
+  ]
+}
