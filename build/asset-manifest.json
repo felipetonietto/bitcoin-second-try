@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9636603.chunk.css",
-    "main.js": "/static/js/main.9ba0728e.chunk.js",
-    "main.js.map": "/static/js/main.9ba0728e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6a0825b5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6a0825b5.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.d29f1efc.chunk.js": "/static/js/2.d29f1efc.chunk.js",
-    "static/js/2.d29f1efc.chunk.js.map": "/static/js/2.d29f1efc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.43318474f2e1e04a793002feb4f6bf04.js": "/precache-manifest.43318474f2e1e04a793002feb4f6bf04.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.e9636603.chunk.css.map": "/static/css/main.e9636603.chunk.css.map",
-    "static/js/2.d29f1efc.chunk.js.LICENSE.txt": "/static/js/2.d29f1efc.chunk.js.LICENSE.txt",
-    "static/media/blockchain.svg": "/static/media/blockchain.714a74e3.svg",
-    "static/media/exemplopagina.png": "/static/media/exemplopagina.a8a7f6d9.png",
-    "static/media/mining.svg": "/static/media/mining.dbcb7dc7.svg",
-    "static/media/novousuario.svg": "/static/media/novousuario.4e85062e.svg",
-    "static/media/paper.svg": "/static/media/paper.0b3c2863.svg",
-    "static/media/privatekeys.svg": "/static/media/privatekeys.9abe5f92.svg"
+    "main.css": "/bitcoin-second-try/static/css/main.e9636603.chunk.css",
+    "main.js": "/bitcoin-second-try/static/js/main.9bec74dd.chunk.js",
+    "main.js.map": "/bitcoin-second-try/static/js/main.9bec74dd.chunk.js.map",
+    "runtime-main.js": "/bitcoin-second-try/static/js/runtime-main.075371ca.js",
+    "runtime-main.js.map": "/bitcoin-second-try/static/js/runtime-main.075371ca.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/bitcoin-second-try/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d29f1efc.chunk.js": "/bitcoin-second-try/static/js/2.d29f1efc.chunk.js",
+    "static/js/2.d29f1efc.chunk.js.map": "/bitcoin-second-try/static/js/2.d29f1efc.chunk.js.map",
+    "index.html": "/bitcoin-second-try/index.html",
+    "precache-manifest.71c7e5728e9bf060024d38e247a354ce.js": "/bitcoin-second-try/precache-manifest.71c7e5728e9bf060024d38e247a354ce.js",
+    "service-worker.js": "/bitcoin-second-try/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/bitcoin-second-try/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e9636603.chunk.css.map": "/bitcoin-second-try/static/css/main.e9636603.chunk.css.map",
+    "static/js/2.d29f1efc.chunk.js.LICENSE.txt": "/bitcoin-second-try/static/js/2.d29f1efc.chunk.js.LICENSE.txt",
+    "static/media/blockchain.svg": "/bitcoin-second-try/static/media/blockchain.714a74e3.svg",
+    "static/media/exemplopagina.png": "/bitcoin-second-try/static/media/exemplopagina.a8a7f6d9.png",
+    "static/media/mining.svg": "/bitcoin-second-try/static/media/mining.dbcb7dc7.svg",
+    "static/media/novousuario.svg": "/bitcoin-second-try/static/media/novousuario.4e85062e.svg",
+    "static/media/paper.svg": "/bitcoin-second-try/static/media/paper.0b3c2863.svg",
+    "static/media/privatekeys.svg": "/bitcoin-second-try/static/media/privatekeys.9abe5f92.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a0825b5.js",
+    "static/js/runtime-main.075371ca.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.d29f1efc.chunk.js",
     "static/css/main.e9636603.chunk.css",
-    "static/js/main.9ba0728e.chunk.js"
+    "static/js/main.9bec74dd.chunk.js"
   ]
 }
