@@ -18,15 +18,15 @@ class Introducao extends React.Component {
           </h2>
         </div>
 
-        <div className="flex-row d-sm-flex mb-5 mr-4 ml-4">
-          <div className="mr-5 ml-5 col-md-5">
+        <div className="flex-row d-sm-flex mb-4 texts">
+          <div>
             <img
               className="img-fluid"
               src={novousuario}
               alt="novousuario"
             ></img>
           </div>
-          <div className="text-justify mr-5 ml-5 col-md-5">
+          <div className="text-justify col-md-4">
             <h4>O Dinheiro: trocas, abstrações de valores, papel-moeda</h4>
             <p>
               Dinheiro é uma das tecnologias mais antigas da humanidade, que
@@ -47,8 +47,8 @@ class Introducao extends React.Component {
             </p>
           </div>
         </div>
-        <div className="flex-row d-sm-flex mb-5 mr-4 ml-4">
-          <div className="text-justify mr-5 ml-5 col-md-5">
+        <div className="flex-row d-sm-flex mb-4 texts">
+          <div className="text-justify col-md-4">
             <h4>Inovação como consequência da interação</h4>
             <p>
               A interação de muito mais pessoas na economia teve como efeito uma
@@ -67,19 +67,19 @@ class Introducao extends React.Component {
               sistemas bancários e financeiros já existentes.
             </p>
           </div>
-          <div className="mr-5 ml-5 col-md-5">
+          <div>
             <img className="img-fluid" src={blockchain} alt="blockchain"></img>
           </div>
         </div>
-        <div className="flex-row d-sm-flex mb-5 mr-4 ml-4">
-          <div className="mr-5 ml-5 col-md-5">
+        <div className="flex-row d-sm-flex mb-4 texts">
+          <div>
             <img
               className="img-fluid"
               src={privatekeys}
               alt="privatekeys"
             ></img>
           </div>
-          <div className="text-justify mr-5 ml-5 col-md-5">
+          <div className="text-justify col-md-4">
             <h4>Sistema Financeiro</h4>
             <p>
               Uma revolução no sistema financeiro proveniente da criação da
@@ -99,8 +99,8 @@ class Introducao extends React.Component {
             </p>
           </div>
         </div>
-        <div className="flex-row d-sm-flex mb-5 mr-4 ml-4">
-          <div className="text-justify mr-5 ml-5 col-md-5">
+        <div className="flex-row d-sm-flex mb-4 texts">
+          <div className="text-justify col-md-4">
             <h4>Bitcoin</h4>
             <p>
               O Bitcoin foi criado em 2008 com a proposta de solucionar o
@@ -119,15 +119,15 @@ class Introducao extends React.Component {
               governos.
             </p>
           </div>
-          <div className="mr-5 ml-5 col-md-5">
+          <div>
             <img className="img-fluid" src={mining} alt="mining"></img>
           </div>
         </div>
-        <div className="flex-row d-sm-flex mb-5 mr-4 ml-4">
-          <div className="mr-5 ml-5 col-md-5">
+        <div className="flex-row d-sm-flex mb-4 texts">
+          <div>
             <img className="img-fluid" src={paper} alt="paper"></img>
           </div>
-          <div className="text-justify mr-5 ml-5 col-md-5">
+          <div className="text-justify col-md-4">
             <h4>Interferência dos Bancos e Governos</h4>
             <p>
               Isso significa que ele pode ser um sistema onde as pessoas

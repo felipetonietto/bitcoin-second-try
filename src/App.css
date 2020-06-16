@@ -24,3 +24,7 @@
   border: solid #f7f7f9;
   max-inline-size: 90vw;
 }
+
+.texts {
+  justify-content: space-evenly;
+}
